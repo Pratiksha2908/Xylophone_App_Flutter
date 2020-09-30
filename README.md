@@ -1,4 +1,4 @@
-# xylophone made by flutter
+# 🎹 Xylophone made by flutter
 
 A new Flutter application.
 
